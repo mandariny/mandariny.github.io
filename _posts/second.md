@@ -1,0 +1,5 @@
+---
+layout: single
+title: "두 번째 글"
+
+#사진 추가 하고싶다.
