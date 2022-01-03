@@ -5,8 +5,6 @@ title: "자바 개발 환경"
 
 ## 프로그램 실행 환경
 
----
-
 1. C/C++
    - 컴파일 후 링크
    - 각 운영체제에서 실행할 수 있는 실행 파일 생성
@@ -24,8 +22,6 @@ title: "자바 개발 환경"
 
 ## JRE, JDK
 
----
-
 1. JRE (Java Runtime Environment)
    - JVM(Java Virtual Machine) + API(Application Programming Interface, liabrary) 등 자바를 실행하는 데 필요한 패키지
    - 자바가상머신(JVM) : 운영체제에 적합하게 컴파일된 바이트코드를 실행하는 실 주체의 기능을 함
@@ -39,12 +35,10 @@ Java 프로그램을 실행만 하는 것이라면 JRE만 있으면 되지만 �
 
 ## 개발환경 구축
 
----
-
 1. JDK
    - 설치 후 Path에 jdk 하위의 bin 폴더(binary code로 바뀌는 부분 저장) 경로 추가
    - JAVA_HOME이라는 새로운 환경변수 생성 후 jdk 경로 추가 <br>-> jdk 경로가 필요한 경우 사용 가능
-2. IDE(Intergrated Development Environment)
+2. IDE (Intergrated Development Environment)
    - 프로그램 개발을 위한 통합 개발 환경을 제공
    - 자바는 주로 eclipse를 사용
    - 업데이트가 잦은 경우 최신버전은 지양하는 것이 좋고, 설치 경로와 실행 경로를 구별해 별도로 관리하는 것이 좋음
