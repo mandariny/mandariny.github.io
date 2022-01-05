@@ -35,7 +35,7 @@ title: "[JAVA] 자바 변수, 메소드, Static"
      - 객체 생성시에 객체 내부에 구성 요소로 생성, 객체 소멸시 자동 삭제
      - JRE의 heap 에 저장되어 가비지 컬렉터(GC)가 처리할 때까지 임의로 지울 수는 없음
      - 객체 생성시 자동으로 기본 값으로 초기화
-       - 실수 = 0.0, 정수 = 0, boolean = false, char = '\u0000'(null), 참조변수 = null
+       - 실수 = 0.0, 정수 = 0, boolean = false, char = '\u0000'(유니코드, 아무 값도 없음을 의미), 참조변수 = null
      - 일반(instance) 변수와 static(non-instance) 변수로 나뉜다.
    - 로컬 변수 (temporary, automatic, stack variable)
      - 생성자나 메소드의 인자(argument) 혹은 그 블록{} 내부에 선언되는 변수
