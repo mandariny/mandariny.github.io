@@ -9,7 +9,7 @@ title: "[JAVA] 자바 프로그램 설계 구조"
 
 1. Data Transfer Object (DTO) Pattern
    - 여러 클래스간에 주고 받는 데이터용 객체
-   - Value Object(VO) Pattern 이라고 부르기도 함
+   - Value Object(VO) Pattern, java bean 이라고 부르기도 함
 2. MVC Pattern
    - MVC 패턴이 더욱 강화된 것이 framework
    - 구성 요소

@@ -1,9 +1,23 @@
 ---
 layout: single
-title: "[JAVA] 외부 라이브러리 사용"
+title: "[JAVA] 자바 API 및 외부 라이브러리 사용"
 ---
 
-**key word** : 외부 라이브러리, Maven, m2, pom, dependency, lombok, log4j, junit, log, test
+**key word** : API, java.lang, 외부 라이브러리, Maven, m2, pom, dependency, lombok, log4j, junit, log, test
+
+자바에서는 사용이 편리한 API를 제공해주고 있다. 그리고 다른 외부 라이브러리들도 잘 돼 있는게 많아서 사용하면 생산성을 향상시키기 좋아보인다. 자바 API와 외부 라이브러리를 사용하는 방법을 알아보려고 한다.
+
+## API(Application Programming Interface)
+
+1. API?
+   - 이미 구현돼 사용 가능하게 제공해주는 코드들
+   - 자바에서 직접 제공해주는 API도 존재 -> [자바 API 공식 문서](https://docs.oracle.com/javase/8/docs/api/)로 확인 가능
+2. API 활용
+   - import문을 이용해 외부 패키지 사용
+   - 객체 생성 후에 호출하며, static 변수와 static 메소드는 객체 생성 없이도 호출 가능
+     <br>
+     ex)Math
+   - java.lang package만 유일하게 import 생략 가능
 
 ## Maven
 

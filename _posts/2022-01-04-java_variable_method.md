@@ -23,6 +23,7 @@ title: "[JAVA] 자바 변수, 메소드, Static"
      - 기본 타입이 아닌 모든 타입
      - class가 존재하는 범위에 한해 사용자 정의 타입으로 사용 가능
      - API, library로 이미 만들어진 다수의 class 타입이 제공됨. String 등
+     - 배열도 참조 타입 변수에 해당
      - String은 String.java로 제공되며 사용 빈도가 높으 기본 타입처럼 사용
        <br>
        ex) String 변수는 생성시 new 키워드를 사용하지 않아도 됨
