@@ -3,7 +3,9 @@ layout: single
 title: "[JAVA] Builder 사용법"
 ---
 
-Builder는 lomlok이라는 외부 라이브러리를 이용하면 사용할 수 있다.
+**key word** : Builder, lombok, build
+
+Builder는 lombok이라는 외부 라이브러리를 이용하면 사용할 수 있다.
 객체를 생성할 때 생성자를 사용하지 않아도 멤버변수를 초기화할 수 있어서 가끔 필요한 상황이 있을 수 있을 듯 하다.
 
 ## Builder
