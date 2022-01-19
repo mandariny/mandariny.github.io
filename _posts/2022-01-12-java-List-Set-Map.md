@@ -34,7 +34,13 @@ title: "[JAVA] List, Set, Map"
 1. 특징
    - 저장되는 데이터의 순서를 유지하는 것이 불가능함
    - 동일한 내용을 갖는 객체의 **중복 저장이 불가능함**
+   - 데이터를 하나씩 구분할 수 있는 고유한 index가 없어서 인덱싱이나 하나씩 값을 반환받을 수가 없음
+   - [Iterator](https://docs.oracle.com/javase/8/docs/api/) API를 활용해 정보를 얻을 수 있음
 
 ## Map
 
 1. 특징
+
+- 저장되는 데이터의 순서를 유지하는 것이 불가능함
+- key와 value의 쌍으로 저장이 됨
+- indexing이 따로 안되므로 데이터를 모두 반환받고 싶을 경우에는 keySet()과 Iterator를 사용<a href="https://docs.oracle.com/javase/8/docs/api/#method.summary">이동</a>
