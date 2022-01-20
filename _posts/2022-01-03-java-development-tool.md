@@ -5,6 +5,8 @@ title: "[JAVA] 자바 개발 및 실행 환경"
 
 **key word** : JRE, JDK, JVM, 컴파일, 인터프리터, Path, JAVA_HOME, IDE
 
+<br><br>
+
 ## 프로그램 실행 환경
 
 1. C/C++

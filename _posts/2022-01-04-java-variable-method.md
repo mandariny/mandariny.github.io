@@ -5,6 +5,8 @@ title: "[JAVA] 자바 변수, 메소드, Static"
 
 **key word** : variable, ref, stack, method
 
+<br><br>
+
 ## 변수(Variable)
 
 1. 데이터 타입에 따른 구분

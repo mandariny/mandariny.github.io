@@ -5,6 +5,8 @@ title: "[JAVA] 자바 프로그램 설계 구조"
 
 **key word** : DTO, VO, MVC, Model, View, Controller
 
+<br><br>
+
 ## 프로그램 개발시 권장되는 정형화된 구조(= Pattern)
 
 1. Data Transfer Object (DTO) Pattern

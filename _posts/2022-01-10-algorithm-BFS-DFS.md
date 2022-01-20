@@ -5,6 +5,8 @@ title: "[Algorithm] BFS / DFS"
 
 **key word** : BFS, DFS, 너비 우선 탐색, 깊이 우선 탐색, Queue, Stack
 
+<br><br>
+
 - [바킹독님의 유튜브](https://www.youtube.com/watch?v=ftOmGdm95XI&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY&index=10) 및 가지고 있던 알고리즘 책들을 참고하여 정리한 내용
 - 새로 이해하는 내용이 생기거나 알고리즘 문제를 접하면서 알게 되는 내용들이 생기면 계속 추가할 예정
 
