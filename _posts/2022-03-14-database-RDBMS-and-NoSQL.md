@@ -32,8 +32,6 @@ DBMS는 사용하는 데이터 모델에 따라 여러 종류로 나뉜다. 계�
 
 ## RDBMS(Relational DBMS)
 
----
-
 우리가 살펴볼 RDBMS는 2세대 DBMS인 관계형 DBMS이다. 여러 데이터베이스중에서도 관계형 데이터 모델을 사용하는 RDB(Relational Database)를 관리하는 소프트웨어이다. RDB는 아래의 그림과 같이 데이터를 2차원 형태의 테이블로 표현하며 현재까지도 널리 사용되고 있다.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Relational_database_terms.svg/525px-Relational_database_terms.svg.png">
@@ -51,7 +49,6 @@ RDBMS는 데이터를 테이블로 표현하는 관계형 데이터 모델을 �
 
 ## NoSQL
 
----
 
 NoSQL은 Not Only SQL이란 의미(SQL을 RDBMS로 이해해도 무방)로 RDB와는 다른 형태의 데이터 모델을 저장하는 데이터베이스이다. SNS 등의 발달로 인해 동영상, 이미지, 검색 로그 등과 같은 비정형 데이터를 저장해야하는 일이 많아졌고, 이러한 변화는 NoSQL DBMS가 주목받게 되는 배경이 된다.
 
@@ -73,7 +70,6 @@ NoSQL는 데이터 저장 방식에 따라 또 여러 유형으로 나뉜다. js
 
 ## RDBMS vs NoSQL DBMS
 
----
 
 결론적으로 두 데이터베이스, 그리고 DBMS는 장단점이 명확하다. 따라서 사용하고자 하는 목적이나 저장하고자 하는 데이터의 특성에 따라 적절히 선택해 사용하면 된다.
 
@@ -83,7 +79,6 @@ RDBMS는 데이터 구조에 변화가 적은 정형데이터를 이용하며 �
 
 ## 참고
 
----
 
 데이터베이스 개론(2판), 김연희, 한빛아카데미 , 2019
 

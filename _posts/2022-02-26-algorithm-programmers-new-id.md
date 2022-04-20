@@ -8,23 +8,17 @@ title: "[Algorithm / Java] 프로그래머스 신규 아이디 추천"
 
 ## [문제](https://programmers.co.kr/learn/courses/30/lessons/72410)
 
----
-
 2021년 카카오 코딩테스트 문제가 구현력을 키우는데 좋다고 해서 풀어봤다. 규칙에 맞게 문자열을 편집하면 되는 문제로 난이도 자체는 어렵지 않았다. 하지만 정규 표현식을 사용해야해서 검색이 많이 필요했다. 그동안 미뤄왔던 공부를 한다고 생각하며 문제를 풀었다.
 
 <br><br>
 
 ## 아이디어
 
----
-
 toLowerCase, replaceAll, replace, substring 등 String의 주요 메소드들을 사용해서 풀 수 있을 것 같았다. 또 유효 문자를 검사하는 데에는 정규 표현식을 사용할 수 있을 것 같아서 공부해 바로 적용해봤다.
 
 <br><br>
 
 ## 구현
-
----
 
 ```
 class Solution {
@@ -70,8 +64,6 @@ class Solution {
 
 ## 2차 구현
 
----
-
 ```
 class Solution {
     public String solution(String new_id) {
@@ -97,8 +89,6 @@ class Solution {
 <br><br>
 
 ## 후기
-
----
 
 정규 표현식을 공부하고 막 적용한 상태라 코드가 지저분한 부분이 많다. 다른 분들의 풀이를 보니까 마침표 2개를 검사하는 표현식, 맨 앞 자리와 맨 뒷 자리의 마침표를 검사하는 표현식 등도 작성할 수 있는 것이었다.
 

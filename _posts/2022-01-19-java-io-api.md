@@ -13,8 +13,6 @@ title: "[JAVA] 자바 입출력 API"
 
 ## 표준 입출력 클래스
 
----
-
 <br>
 
 ### **System.in**

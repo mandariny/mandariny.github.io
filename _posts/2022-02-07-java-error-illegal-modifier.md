@@ -9,8 +9,6 @@ title: "[JAVA] illegal modifier for parameter a only final is permitted"
 
 ## illegal modifier for parameter a only final is permitted
 
----
-
 메소드 내의 지역 변수에 private와 같은 접근 제어자를 사용하고 만난 에러다.
 
 자바 클래스를 감싼 중괄호 안에 선언한 줄 알았는데 알고보니 메인 메소드 내부였다...

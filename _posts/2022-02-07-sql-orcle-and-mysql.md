@@ -13,16 +13,10 @@ title: "[SQL] Oracle, MySQL 문법 정리"
 
 ## Number / Int
 
----
-
 <br><br>
 
 ## Constraint
 
----
-
 <br><br>
 
 ## Sequence / Auto_Increment
-
----
