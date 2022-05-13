@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[JAVA] illegal modifier for parameter a only final is permitted"
+title: "[JAVA / Error] illegal modifier for parameter a only final is permitted"
 ---
 
 **key word** : JAVA, JAVA error, modifier error

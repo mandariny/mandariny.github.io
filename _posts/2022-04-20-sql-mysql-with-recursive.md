@@ -55,6 +55,8 @@ SELECT * FROM cte;
 1. WITH절 안에서 자기 자신을 참조하는 경우에는 항상 RECURSIVE를 함께 명시해줘야한다.
 2. RECURSIVE CTE에서는 UNION ALL이나 UNION(UNION DISTINCT)로 나눠지는 두 서브쿼리가 존재하게 된다. 첫 번째 서브쿼리에는 행의 초기값을, 두 번째 서브쿼리에서는 이어질 행을 정의한다.
 
+<br><br>
+
 ## 참고
 
 이것이 MySQL이다(개정판), 우재남, 한빛미디어, 2021
